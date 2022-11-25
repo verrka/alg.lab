@@ -1,0 +1,3 @@
+﻿  lab_6_1.cpp
+C:\Users\veron\Desktop\Sortt\Sortt\Sortt.cpp(23,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab_6_1.vcxproj -> C:\Users\veron\Desktop\lab_6_1\x64\Debug\lab_6_1.exe
