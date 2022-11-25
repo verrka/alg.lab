@@ -1,0 +1,4 @@
+﻿  Lab_3_2.cpp
+C:\Users\veron\Desktop\Lab_3_2\Lab_3_2\Lab_3_2.cpp(8,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\veron\Desktop\Lab_3_2\Lab_3_2\Lab_3_2.cpp(14,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lab_3_2.vcxproj -> C:\Users\veron\Desktop\Lab_3_2\x64\Debug\Lab_3_2.exe

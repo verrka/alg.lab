@@ -1,0 +1,12 @@
+﻿  Lab1_2.cpp
+C:\Users\veron\Desktop\Lab1_2\Lab1_2\Lab1_2.cpp(8,5): error C2084: function 'void BST::inorderTreeWalk(NodePtr)' already has a body
+C:\Users\veron\Desktop\Trree\Trree\Trree.cpp(124): message : see previous definition of 'inorderTreeWalk'
+C:\Users\veron\Desktop\Lab1_2\Lab1_2\Lab1_2.cpp(11,13): error C2065: 'inorderTreeWalk': undeclared identifier
+C:\Users\veron\Desktop\Lab1_2\Lab1_2\Lab1_2.cpp(13,13): error C2065: 'inorderTreeWalk': undeclared identifier
+C:\Users\veron\Desktop\Lab1_2\Lab1_2\Lab1_2.cpp(19,5): error C2084: function 'void BST::PrintTree(void)' already has a body
+C:\Users\veron\Desktop\Trree\Trree\Trree.cpp(135): message : see previous definition of 'PrintTree'
+C:\Users\veron\Desktop\Lab1_2\Lab1_2\Lab1_2.cpp(21,9): error C2065: 'inorderTreeWalk': undeclared identifier
+C:\Users\veron\Desktop\Lab1_2\Lab1_2\Lab1_2.cpp(27,5): error C2084: function 'void BST::ShowTree(NodePtr,int)' already has a body
+C:\Users\veron\Desktop\Trree\Trree\Trree.cpp(143): message : see previous definition of 'ShowTree'
+C:\Users\veron\Desktop\Lab1_2\Lab1_2\Lab1_2.cpp(29,13): error C2065: 'ShowTree': undeclared identifier
+C:\Users\veron\Desktop\Lab1_2\Lab1_2\Lab1_2.cpp(31,13): error C2065: 'ShowTree': undeclared identifier
