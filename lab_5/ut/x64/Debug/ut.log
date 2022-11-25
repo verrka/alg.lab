@@ -1,0 +1,3 @@
+﻿  ut.cpp
+C:\Users\veron\Desktop\ut\ut\ut.cpp(13,16): error C2352: 'my_class::mergesort': a call of a non-static member function requires an object
+C:\Users\veron\Desktop\Sort\Sort\Sort.cpp(40): message : see declaration of 'my_class::mergesort'
